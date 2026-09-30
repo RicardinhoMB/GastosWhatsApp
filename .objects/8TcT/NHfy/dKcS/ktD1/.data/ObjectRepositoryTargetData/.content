@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JB0Lxd42H0q8KN6Ss0x9fA" Reference="CNQ1imBG-kK2f8Ph4i9JMg/ktD1f7hlVUKoRUi0GMg8yg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="web.whatsapp.com" DesignTimeRectangle="159, 313, 428, 24" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Central da Falência*' parentid='pane-side' tag='SPAN' /&gt;" Guid="ec6b4003-5f06-42c0-92e3-54ce614e2178" ScopeSelectorArgument="&lt;html app='chrome.exe' title='(2) WhatsApp' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="55e2e86829e8b3a63ca527760283b7c0.jpg" xmlns="">0WJOjDqXB9063EgoiQc7sUA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

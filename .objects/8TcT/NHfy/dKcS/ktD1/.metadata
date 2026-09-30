@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Central da Falência",
+  "Type": "Element",
+  "Id": "ktD1f7hlVUKoRUi0GMg8yg",
+  "Reference": "CNQ1imBG-kK2f8Ph4i9JMg/ktD1f7hlVUKoRUi0GMg8yg",
+  "ParentRef": "CNQ1imBG-kK2f8Ph4i9JMg/dKcSwBc2bkOgNwgeVN6PEg",
+  "Created": "2026-09-25T01:38:51.156598Z",
+  "Updated": "2026-09-25T01:38:51.156598Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

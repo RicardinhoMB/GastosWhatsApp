@@ -1,0 +1,6 @@
+{
+  "Name": "Gastos WhatsApp",
+  "ProjectType": "Process",
+  "Description": "Robô de controle de gastos via WhatsApp",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "tail-outGasto uber 25,…",
+  "Type": "Element",
+  "Id": "ABUZpHd2o0Kb4tsft6JOBA",
+  "Reference": "CNQ1imBG-kK2f8Ph4i9JMg/ABUZpHd2o0Kb4tsft6JOBA",
+  "ParentRef": "CNQ1imBG-kK2f8Ph4i9JMg/dKcSwBc2bkOgNwgeVN6PEg",
+  "Created": "2026-09-25T02:01:40.7361236Z",
+  "Updated": "2026-09-25T02:01:40.7361236Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

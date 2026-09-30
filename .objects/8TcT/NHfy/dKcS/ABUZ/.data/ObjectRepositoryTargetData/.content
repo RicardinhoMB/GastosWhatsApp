@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hODpWGvXlkySqcdOaTM2jA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="web.whatsapp.com" DesignTimeRectangle="648, 850, 1270, 34" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-label='Você  Gasto uber: 25,90  21:58 Enviada  ' tag='DIV' /&gt;" Guid="af16dceb-a042-4e92-9137-991f99d8eb45" ScopeSelectorArgument="&lt;html app='chrome.exe' title='(2) WhatsApp' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="176cb1c7d0a6e39e3f7d95af3bb89777.jpg" xmlns="">0Qb40b-M6sUSVdXwXCdm9QQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
